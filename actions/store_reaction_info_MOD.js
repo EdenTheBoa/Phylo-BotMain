@@ -2,15 +2,14 @@ module.exports = {
   name: 'Store Reaction Info',
   section: 'Reaction Control',
   meta: {
-    version: '2.0.11',
+    version: '2.1.7',
     preciseCheck: false,
     author: 'DBM Mods',
     authorUrl: 'https://github.com/dbm-network/mods',
     downloadURL: 'https://github.com/dbm-network/mods/blob/master/actions/store_reaction_info_MOD.js',
   },
 
-  subtitle(data) {
-    const reaction = ['You cheater!', 'Temp Variable', 'Server Variable', 'Global Variable'];
+  subtitle(data, presets) {
     const info = [
       'Message Object',
       'Bot reacted?',
@@ -20,8 +19,9 @@ module.exports = {
       'First User to React',
       'Random User to React',
       'Last User to React',
+      'Emoji Object',
     ];
-    return `${reaction[parseInt(data.reaction, 10)]} - ${info[parseInt(data.info, 10)]}`;
+    return `${presets.getVariableText(data.reaction, data.varName)} - ${info[parseInt(data.info, 10)]}`;
   },
 
   variableStorage(data, varType) {
@@ -51,6 +51,9 @@ module.exports = {
         break;
       case 7:
         dataType = 'User';
+        break;
+      case 8:
+        dataType = 'Object';
         break;
       default:
         break;
@@ -85,6 +88,7 @@ module.exports = {
       <option value="1">Bot Reacted?</option>
       <option value="2">User Who Reacted List</option>
       <option value="3">Emoji Name</option>
+      <option value="8">Emoji Object</option>
       <option value="4">Reaction Count</option>
     </select>
   </div>
@@ -153,6 +157,10 @@ module.exports = {
       case 7: {
         const lastid = rea.users.cache.lastKey(); // Stores last user ID reacted
         result = cache.server.members.cache.get(lastid);
+        break;
+      }
+      case 8: {
+        result = rea.emoji; // Emoji object
         break;
       }
       default:

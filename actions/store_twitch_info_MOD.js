@@ -2,7 +2,7 @@ module.exports = {
   name: 'Store Twitch Info',
   section: 'Other Stuff',
   meta: {
-    version: '2.0.11',
+    version: '2.1.7',
     preciseCheck: false,
     author: 'DBM Mods',
     authorUrl: 'https://github.com/dbm-network/mods',
@@ -257,7 +257,7 @@ module.exports = {
 
   html(isEvent, data) {
     return `
-<div id ="wrexdiv" style="width: 550px height: 350px overflow-y: scroll overflow-x: hidden">
+<div id="wrexdiv" style="width: 550px; height: 350px; overflow-y: scroll;">
   <div style="float: left width: 42%">
     <br>Source Type:<br>
     <select id="type" class="round" onchange="glob.onChange1(this)">
