@@ -1,21 +1,16 @@
-Western Terrestrial Gartersnakes *Thamnophis elegans* are medium sized (46-76cm, record 109cm) New World natricine snakes that range across much of southwestern Canada and the western United States, with a disjunct population in Baja California, Mexico.  Scales are strongly keeled and the anal plate is undivided.  
- 
-*T. elegans* is found in a wide variety of habitats, from grasslands to scrub to woodlands; usually close to water, but will travel long distances away.  One of the most terrestrial garter snakes, and one of the least likely to seek refuge in water if approached or otherwise threatened, they are generalist predators with a remarkably wide range of recorded prey items, including amphibians, earthworms, leeches, slugs, fish, lizards, small snakes, small birds, small rodents and bats.
- 
-When cornered or frightened the Western Terrestrial Gartersnake, like many garter and water snakes, might flatten the head and body to make itself appear larger, bite or pretend to bite, and release a foul smelling musk from the vent.  Mild toxins in the saliva are effective in subduing prey, but bites are considered harmless to humans.
- 
-This species shares its very wide range with a large number of other gartersnake species.  Differentiating from other garters can be difficult, and in a few locations sometimes requires close inspection by an experienced person.  Western Terrestrial Gartersnakes, however, typically have;
-• 8 upper labial scales
-• 10 lower labial scales
-• internasal scales wider than they are long
-• anterior and posterior chin shields of equal length
-• well defined, but dull colored, dorsal stripe which runs the length of the snake
-• proportionally large head and small eyes relative to some other sympatric species
- 
-[Range map](https://lh3.googleusercontent.com/proxy/UjVRALApJYiXNKikPjfkog7W50Vvzi3pVSRhoKyHgFyn5R57Aku6D69NxDesCmq6tzfehmzjRj8ZJtDAfcR0gsYT77WeIFVyBW0Glp1kBMv22pxfAH6hpiX57Q)
- 
-[CAHerps Link](http://www.californiaherps.com/snakes/pages/t.e.elegans.html)
+Western Terrestrial Gartersnakes *Thamnophis elegans* are medium sized (46-76cm, record 109cm) New World natricine snakes that range across much of southwestern Canada and the western United States, with a disjunct population in Baja California, Mexico, from near sea level to 3,660m and perhaps even 3,900m.  They utilize a wide variety of habitats, including riparian woodland, grassland, scrub, well vegetated wetlands and waterbodies, montane woodland, agricultural areas, and rocky coastal shoreline (including on small islands in the Puget Sound region).
 
-This genus and this species are in need of revision using modern molecular methods.
+When cornered/frightened *T. elegans*, like many Gartersnakes and related Watersnakes, may flatten the head and body to make itself appear larger, bite or pretend to bite, and release a foul smelling musk from the vent. Mild toxins in the saliva might be effective in subduing smaller prey items, but bites are considered harmless to humans.
 
-*This short account was prepared by /u/fairlyorange and edited by /u/Phylogenizer*.
+Ecology varies greatly between and even among populations of *T. elegans*.  Some exemplify the common name and live a more or less terrestrial existence, wandering long distances from permanent freshwater.  Other populations are strongly semi-aquatic and some are intermediate.  Populations that live in and near water are less likely than other Gartersnakes to flee into the water to evade potential predators.  The range of recorded prey items is remarkably wide and includes (but is not limited to) frogs, salamanders, fish, rodents, earthworms, leeches, slugs, lizards, small snakes, small birds, and bats.
+
+Western Terrestrial Gartersnakes have strongly keeled dorsal scales usually arranged in 21 rows anteriorly (19-23; frequently 19 in coastal California), 21 rows at midbody (19-21; commonly 19 in coastal California), and 17 rows anterior to the vent.  There are usually 8 supralabials scales (commonly 7 in coastal California) and 10 infralabials (10-11). The anterior and posterior chin shields are approximately the same length.  The internasal scales are wider than they are long, and the head tends to be somewhat chunky, with a relatively short muzzle and broad snout.  The anal plate is undivided.  Dorsal pattern varies widely geographically, sometimes even within a single population, but the lateral stripes are always positioned on dorsal scale rows 2-3.
+
+Differentiating *T. elegans* from overlapping species of Gartersnakes can be difficult, and especially in coastal California might require close inspection by an experienced person.  Common Gartersnakes *T. sirtalis* have 19 dorsal scale rows anteriorly and at midbody, usually only 7 supralabials, and the posterior chin shields are noticeably longer than the anterior pair.  Northwestern Gartersnakes *T. ordinoides* have a proportionally smaller head and eyes and usually only 17 dorsal scale rows anteriorly and at midbody (17-19), 7 supralabial scales (6-8), and 8-9 infralabials (6-10).  Sierra Gartersnakes *T. couchii*, Two-striped Gartersnakes *T. hammondii*, Aquatic Gartersnakes *T. atratus*, and Giant Gartersnakes *T. gigas* have proportionally longer muzzles and narrower snouts, internasal scales which are longer than they are wide, and the posterior chin shields are noticeably longer than the anterior pair.  Plains Gartersnakes *T. radix* and Mexican Gartersnakes *T. eques* have lateral stripes positioned on dorsal scale rows 3-4 and more prominent facial markings.  Checkered Gartersnakes *T. marcianus* have lateral stripes positioned only on the third dorsal scale row anteriorly and more prominent facial markings.  Black-necked Gartersnakes *T. cyrtopsis* have only 19 dorsal scale rows at midbody and more prominent facial markings.
+
+Lined Snakes *Tropidoclonion lineatum* have proportionally tiny heads and only 19 dorsal scale rows at midbody.  *Masticophis* Whipsnakes and *Salvadora* Patch-nosed Snakes have smooth dorsal scales which are arranged in a maximum of 17 rows at midbody and divided anal scales.
+
+[Range Map - © Rune Midtgaard](http://repfocus.dk/maps1/TAX/Serpentes/Colubridae/Thamnophis_elegans_map.html)
+  |  [Reptile Database Account](https://reptile-database.reptarium.cz/species?genus=Thamnophis&species=elegans)  |  [Additional Information](https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.102240/Thamnophis_elegans)
+
+This short account was written by /u/fairlyorange
